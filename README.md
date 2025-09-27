@@ -46,8 +46,8 @@ Follow the prompts to select algorithms and input sizes.
 
 ## Example Output
 
-![Sorting visualization screenshot](screenshot.png)
-*(Add a screenshot/gif here to show the visualizer in action)*
+![Sorting algorithm comparison screenshot](screenshot.png)
+*The visualization above compares Bubble Sort and Merge Sort side-by-side, showing their sorting process and timing.*
 
 ## Project Structure
 
