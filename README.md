@@ -59,7 +59,3 @@ Follow the prompts to select algorithms and input sizes.
 ## Author
 
 [JDRailsback](https://github.com/JDRailsback)
-
----
-
-*Sorting-Algorithm-Visualization is an educational resource for learning and teaching sorting algorithms through interactive graphics and performance comparison.*
