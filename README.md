@@ -14,7 +14,9 @@ Visualize and compare the performance of multiple sorting algorithms in Python u
 - Bubble Sort
 - Insertion Sort
 - Selection Sort
-- (Add more here as you implement them!)
+- Merge Sort
+- Heap Sort
+- BOGO Sort
 
 ## Getting Started
 
